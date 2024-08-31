@@ -14,11 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Hi there! My name is Rowin, I'm 14 years old, and I'm passionate about
-      programming. I love exploring technology and improving my coding skills.
-      Gaming is also one of my favorite hobbies. I find motivation in learning
-      new things and working on creative projects. I'm excited to continue
-      developing myself in the world of computers and gaming!
+      Hi! I'm Rowin, 14 years old, and I love programming. I enjoy exploring
+      technology and playing games. I'm excited to learn new things and work on
+      creative projects!
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
