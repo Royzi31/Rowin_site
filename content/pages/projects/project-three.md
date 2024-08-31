@@ -3,7 +3,7 @@ type: ProjectLayout
 title: screen polish
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
