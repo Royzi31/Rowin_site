@@ -48,6 +48,7 @@ bottomSections:
         justifyContent: center
         flexDirection: col
         borderColor: border-primary
+        borderWidth: 8
       title:
         textAlign: center
       text:
