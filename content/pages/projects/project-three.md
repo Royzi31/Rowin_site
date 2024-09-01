@@ -45,7 +45,7 @@ bottomSections:
           - pl-4
           - pr-4
         alignItems: flex-start
-        justifyContent: flex-start
+        justifyContent: flex-end
         flexDirection: col
         borderColor: border-secondary
         borderWidth: 7
