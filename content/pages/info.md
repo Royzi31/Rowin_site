@@ -277,18 +277,17 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2017**
 
-          * ba computer sciense at a semi fancy school
+          *   5 yaşındayken bilgisayar kullanmaya başladım.
 
-          **2014**
+          **2024**
 
-          * react certificate somewhere
+          *   Resmi bir sertifikam yok ama yazılımla ilgileniyorum.
 
-          **2011**
 
-          * my highschool
+
         styles:
           self:
             textAlign: left
