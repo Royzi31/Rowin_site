@@ -39,7 +39,7 @@ bottomSections:
         altText: ''
         url: >-
           https://drive.google.com/file/d/1apnT1P6UDdM7AGh6uFR_ryjO7mtonjTs/view?usp=drive_link
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         elementId: ''
