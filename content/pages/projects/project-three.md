@@ -25,7 +25,7 @@ bottomSections:
       any layout and any screen.
     actions:
       - type: Button
-        label: dowlond
+        label: dowloand
         altText: ''
         url: >-
           https://drive.google.com/file/d/1apnT1P6UDdM7AGh6uFR_ryjO7mtonjTs/view?usp=drive_link
