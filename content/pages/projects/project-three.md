@@ -43,7 +43,7 @@ bottomSections:
           - pt-12
           - pb-12
           - pl-4
-          - pr-4
+          - pr-1
         alignItems: center
         justifyContent: center
         flexDirection: col
