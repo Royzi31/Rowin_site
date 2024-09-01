@@ -208,7 +208,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: phyton
+        label: Python
       - type: Label
         label: React
       - type: Label
