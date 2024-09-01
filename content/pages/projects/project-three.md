@@ -19,13 +19,11 @@ media:
   altText: Project image
 bottomSections:
   - type: CtaSection
-    title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    title: ''
+    text: ''
     actions:
       - type: Button
-        label: dowlond
+        label: dowloand
         altText: ''
         url: >-
           https://drive.google.com/file/d/1apnT1P6UDdM7AGh6uFR_ryjO7mtonjTs/view?usp=drive_link
@@ -33,15 +31,6 @@ bottomSections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: >-
-          https://drive.google.com/file/d/1apnT1P6UDdM7AGh6uFR_ryjO7mtonjTs/view?usp=drive_link
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
         elementId: ''
     colors: colors-c
     backgroundSize: full
@@ -51,13 +40,16 @@ bottomSections:
         height: auto
         width: narrow
         padding:
-          - pt-28
-          - pb-28
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: col
+        borderColor: border-secondary
+        borderWidth: 7
+        borderStyle: solid
       title:
         textAlign: center
       text:
