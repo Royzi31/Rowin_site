@@ -47,7 +47,7 @@ bottomSections:
         alignItems: center
         justifyContent: center
         flexDirection: col
-        borderColor: border-secondary
+        borderColor: border-primary
       title:
         textAlign: center
       text:
