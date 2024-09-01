@@ -49,7 +49,7 @@ bottomSections:
         flexDirection: col
         borderColor: border-secondary
         borderWidth: 4
-        borderStyle: dashed
+        borderStyle: solid
       title:
         textAlign: center
       text:
