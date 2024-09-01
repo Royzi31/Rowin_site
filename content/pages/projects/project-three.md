@@ -48,7 +48,7 @@ bottomSections:
         justifyContent: center
         flexDirection: col
         borderColor: border-secondary
-        borderWidth: 4
+        borderWidth: 5
         borderStyle: solid
       title:
         textAlign: center
