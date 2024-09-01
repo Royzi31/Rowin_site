@@ -38,7 +38,7 @@ bottomSections:
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         padding:
           - pt-28
           - pb-28
