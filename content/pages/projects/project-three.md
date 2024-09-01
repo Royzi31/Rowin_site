@@ -33,6 +33,15 @@ bottomSections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1apnT1P6UDdM7AGh6uFR_ryjO7mtonjTs/view?usp=drive_link
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     colors: colors-c
     backgroundSize: full
     elementId: ''
