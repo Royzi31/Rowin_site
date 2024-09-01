@@ -13,14 +13,15 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
+    text: >+
       ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
       also where I’m based. I’m currently a free agent, ex-this, ex-that,
       ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      cereals. I have a dog, check her out [@silver](https://www.stackbit.com/).
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/yazilim-e1630925044945.jpg
       altText: Hero image
     styles:
       self:
@@ -207,9 +208,9 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Python
       - type: Label
-        label: React
+        label: C#
       - type: Label
         label: Microsoft Office
       - type: Label
@@ -239,7 +240,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <aliefe042010@gmail.com>
   - type: DividerSection
     styles:
       self:
@@ -257,26 +258,15 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   freelance @Rowin.me
 
           **2018-2021**
 
-          * fullstack at this startup
+          *   fullstack at this startup
 
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
@@ -287,18 +277,17 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2017**
 
-          * ba computer sciense at a semi fancy school
+          *   5 yaşındayken bilgisayar kullanmaya başladım.
 
-          **2014**
+          **2024**
 
-          * react certificate somewhere
+          *   Resmi bir sertifikam yok ama yazılımla ilgileniyorum.
 
-          **2011**
 
-          * my highschool
+
         styles:
           self:
             textAlign: left
