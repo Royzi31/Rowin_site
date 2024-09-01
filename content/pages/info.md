@@ -21,7 +21,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/yazilim-e1630925044945.jpg
       altText: Hero image
     styles:
       self:
