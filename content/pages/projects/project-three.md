@@ -46,7 +46,7 @@ bottomSections:
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: col
+        flexDirection: row
         borderColor: border-primary
         borderWidth: 8
       title:
